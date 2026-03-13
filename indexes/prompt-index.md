@@ -7,9 +7,10 @@
 - [专业文章写作增强](../prompts/02-writing/writing-professional-article-enhancement-v1.md)
 
 ## 03 Research
+- [AI 科技文献/论文研究提示词 通用片](../prompts/03-research/research-ai-tech-v1.md)
+
 - [AI 科技文献/论文研究提示词 高级版](../prompts/03-research/research-ai-tech-advanced.md)
 > 高级版（适合你要“高质量深度研究稿”时使用）
-- [AI 科技文献/论文研究提示词 高级版](../prompts/03-research/research-ai-tech-advanced.md)
 
 - [AI 技术趋势研究](../prompts/03-research/research-ai-tech-trend-v1.md)
 
@@ -22,6 +23,6 @@
 ## 99 Templates
 - [元提示词](../prompts/99-templates/MetaPrompt.md)
 > “元提示词模板”
->让 LLM 根据你的业务需求，自动生成一个专业的“智能体系统指令 / Prompt / Agent Spec”
+> 让 LLM 根据你的业务需求，自动生成一个专业的“智能体系统指令 / Prompt / Agent Spec”
 
 - [通用深度分析模板](../prompts/99-templates/template-deep-analysis-universal-v1.md)
