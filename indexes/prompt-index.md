@@ -20,6 +20,10 @@
 ## 05 Agent
 - [通用 Agent 系统指令模板](../prompts/05-agent/agent-general-system-prompt-v1.md)
 
+## 06 coding
+- [vibe coding 代码安全审计 Prompt](../prompts/06-coding/coding-security-auditor-prompt-v1.md)
+> 这个强大的提示功能可以将LLM变成你的生产环境安全审查员。粘贴你的代码库（或关键文件），它将审核 - [AI Vibe Coding Security Playbook](../../assets/images/vibe_coding_security_playbook.png)全部 24 条规则，标记所有违规项，并在发布前提供一份优先级排序的修复列表。
+
 ## 99 Templates
 - [元提示词](../prompts/99-templates/MetaPrompt.md)
 > “元提示词模板”
