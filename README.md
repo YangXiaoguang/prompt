@@ -1,4 +1,4 @@
-# PromptAtlas
+# PromptAtlas :sunny:
 ![](./assets/images/banner.png "PromptAtlas")
 
 一个持续积累、整理、迭代的高质量提示词库（Prompt Library）。
@@ -10,7 +10,7 @@
 
 ---
 
-## 仓库目标
+##  PromptAtlas 项目目标 :dart:
 
 本仓库希望解决以下问题：
 
@@ -23,9 +23,9 @@
 
 ---
 
-## 适用场景
+## 适用场景 :city_sunrise:
 
-本仓库中的提示词主要面向以下场景：
+本项目中的提示词主要面向以下场景：
 
 - 文章分析与深度总结
 - 技术报告解析
@@ -61,10 +61,10 @@
 
 ---
 
-## 仓库结构
+## 目录结构
 
 ```bash
-prompt-library/
+prompt/
 ├── README.md
 ├── prompts/
 │   ├── analysis/
