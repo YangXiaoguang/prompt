@@ -11,7 +11,7 @@
 
 ## 04 Product
 - [企业级 PRD 生成](../prompts/04-product/product-enterprise-prd-generation-v1.md)
-
+- [企业级 需求规格说明书SRS 生成](../prompts/04-product/product-enterpris-srs-generation-v1.md)
 ## 05 Agent
 - [通用 Agent 系统指令模板](../prompts/05-agent/agent-general-system-prompt-v1.md)
 
