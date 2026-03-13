@@ -1,4 +1,5 @@
-# Prompt Library
+# PromptAtlas
+![](./assets/images/banner.png "PromptAtlas")
 
 一个持续积累、整理、迭代的高质量提示词库（Prompt Library）。
 

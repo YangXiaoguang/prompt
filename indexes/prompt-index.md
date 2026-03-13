@@ -17,4 +17,6 @@
 
 ## 99 Templates
 - [元提示词](../prompts/99-templates/MetaPrompt.md)
+> “元提示词模板”
+>让 LLM 根据你的业务需求，自动生成一个专业的“智能体系统指令 / Prompt / Agent Spec”
 - [通用深度分析模板](../prompts/99-templates/template-deep-analysis-universal-v1.md)
