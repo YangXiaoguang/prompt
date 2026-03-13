@@ -9,7 +9,7 @@
 ## 03 Research
 - [AI 科技文献/论文研究提示词 通用片](../prompts/03-research/research-ai-tech-v1.md)
 
-- [AI 科技文献/论文研究提示词 高级版](../prompts/03-research/research-ai-tech-advanced.md)
+- [AI 科技文献/论文研究提示词 高级版](../prompts/03-research/research-ai-tech-advanced.md) :star:
 > 高级版（适合你要“高质量深度研究稿”时使用）
 
 - [AI 技术趋势研究](../prompts/03-research/research-ai-tech-trend-v1.md)

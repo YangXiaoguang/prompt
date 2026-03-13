@@ -3,8 +3,8 @@
 
 一个持续积累、整理、迭代的高质量提示词库（Prompt Library）。
 
-- [提示词列表](./indexes/prompt-index.md)
-- [提示词写作指南](./docs/prompt-writing-guide.md)
+- [提示词列表](./indexes/prompt-index.md) :star:
+- [提示词写作指南](./docs/prompt-writing-guide.md) :star:
 
 这个仓库用于沉淀我在 AI 应用、内容分析、企业场景、产品设计、技术研究、Agent 指令设计等方向中的高价值提示词，方便后续复用、优化、检索与版本管理。
 
