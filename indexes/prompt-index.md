@@ -7,7 +7,7 @@
 - [专业文章写作增强](../prompts/02-writing/writing-professional-article-enhancement-v1.md)
 
 ## 03 研究 Research :microscope:
-- [氛围研究提示词](../prompts/03-research/research-tech-vibing.md)
+- [Vibe Research氛围研究提示词](../prompts/03-research/research-tech-vibing.md)
 - [AI 科技文献/论文研究提示词 通用片](../prompts/03-research/research-ai-tech-v1.md)
 
 - [AI 科技文献/论文研究提示词 高级版](../prompts/03-research/research-ai-tech-advanced.md) :star:
